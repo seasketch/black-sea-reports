@@ -1,0 +1,80 @@
+[
+  {
+    "datasourceId": "global-clipping-osm-land",
+    "geo_type": "vector",
+    "formats": [
+      "subdivided"
+    ],
+    "precalc": false,
+    "idProperty": "gid",
+    "nameProperty": "gid",
+    "classKeys": [],
+    "url": "https://d3p1dsef9f0gjr.cloudfront.net/"
+  },
+  {
+    "datasourceId": "global-clipping-eez-land-union",
+    "geo_type": "vector",
+    "formats": [
+      "subdivided"
+    ],
+    "precalc": false,
+    "idProperty": "UNION",
+    "nameProperty": "UNION",
+    "classKeys": [],
+    "url": "https://d3muy0hbwp5qkl.cloudfront.net"
+  },
+  {
+    "datasourceId": "global-eez-mr-v12",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "metadata": {
+      "name": "World EEZ v11",
+      "description": "World EEZ boundaries and disputed areas",
+      "version": "11.0",
+      "publisher": "Flanders Marine Institute (VLIZ)",
+      "publishDate": "2019118",
+      "publishLink": "https://marineregions.org/"
+    },
+    "idProperty": "GEONAME",
+    "nameProperty": "GEONAME",
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
+    "propertyFilter": {
+      "property": "GEONAME",
+      "values": [
+        "Bulgarian Exclusive Economic Zone",
+        "Romanian Exclusive Economic Zone"
+      ]
+    },
+    "bboxFilter": [
+      27.443712115721866,
+      41.978194444444625,
+      31.330820012970065,
+      43.73847246203471
+    ]
+  },
+  {
+    "datasourceId": "world",
+    "geo_type": "vector",
+    "formats": [
+      "json",
+      "fgb"
+    ],
+    "precalc": false,
+    "metadata": {
+      "name": "World Outline Polygon",
+      "description": "World polygon for default project geography in seasketch geoprocessing proejcts",
+      "version": "1.0",
+      "publisher": "SeaSketch",
+      "publishDate": "20231018",
+      "publishLink": ""
+    },
+    "layerName": "world",
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/world.fgb"
+  }
+]

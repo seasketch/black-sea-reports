@@ -1,0 +1,31 @@
+[
+  {
+    "geographyId": "world",
+    "datasourceId": "world",
+    "display": "World",
+    "groups": [],
+    "precalc": false
+  },
+  {
+    "geographyId": "eez",
+    "datasourceId": "global-eez-mr-v12",
+    "display": "Bulgarian + Romanian Exclusive Economic Zone",
+    "propertyFilter": {
+      "property": "GEONAME",
+      "values": [
+        "Bulgarian Exclusive Economic Zone",
+        "Romanian Exclusive Economic Zone"
+      ]
+    },
+    "bboxFilter": [
+      27.443712115721866,
+      41.978194444444625,
+      31.409722222222598,
+      45.21283686143221
+    ],
+    "groups": [
+      "default-boundary"
+    ],
+    "precalc": true
+  }
+]
