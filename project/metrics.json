@@ -83,5 +83,29 @@
                 "datasourceId": "seabed_habitats"
             }
         ]
+    },
+    {
+        "metricId": "humanUseAreaOverlap",
+        "type": "areaOverlap",
+        "classes": [
+            {
+                "classId": "bathing_waters",
+                "display": "Bathing Waters",
+                "datasourceId": "bathing_waters",
+                "layerId": ""
+            },
+            {
+                "classId": "fishing_area",
+                "display": "Fishing Areas",
+                "datasourceId": "fishing_area",
+                "layerId": ""
+            },
+            {
+                "classId": "scuba_diving",
+                "display": "Scuba Diving Areas",
+                "datasourceId": "scuba_diving",
+                "layerId": ""
+            }
+        ]
     }
 ]

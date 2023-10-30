@@ -21,6 +21,7 @@
   ],
   "geoprocessingFunctions": [
     "src/functions/boundaryAreaOverlap.ts",
+    "src/functions/humanUseAreaOverlap.ts",
     "src/functions/seabedAreaOverlap.ts"
   ]
 }

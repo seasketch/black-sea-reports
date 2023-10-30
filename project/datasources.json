@@ -144,22 +144,67 @@
     "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/world.fgb"
   },
   {
-    "src": "data/src/Data_Received/bottomHabitats.geojson",
-    "layerName": "bottomHabitats",
-    "geo_type": "vector",
     "datasourceId": "seabed_habitats",
+    "geo_type": "vector",
     "formats": [
       "fgb",
       "json"
     ],
+    "precalc": true,
+    "layerName": "bottomHabitats",
     "classKeys": [
       "orig_hab"
     ],
     "created": "2023-10-30T21:35:24.499Z",
     "lastUpdated": "2023-10-30T21:35:24.499Z",
+    "src": "data/src/Data_Received/bottomHabitats.geojson",
     "propertiesToKeep": [
       "orig_hab"
+    ]
+  },
+  {
+    "datasourceId": "bathing_waters",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
     ],
+    "precalc": true,
+    "layerName": "BG_Bathing_Waters_Black_Sea_Clip",
+    "classKeys": [],
+    "created": "2023-10-30T22:51:09.047Z",
+    "lastUpdated": "2023-10-30T22:51:09.047Z",
+    "src": "data/src/Data_Received/BG_Bathing_Waters_Black_Sea_Clip/BG_Bathing_Waters_Black_Sea_Clip.shp",
+    "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "fishing_area",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "layerName": "BG_Fishing_Area_Project_Clip",
+    "classKeys": [],
+    "created": "2023-10-30T22:51:49.870Z",
+    "lastUpdated": "2023-10-30T22:51:49.870Z",
+    "src": "data/src/Data_Received/BG_Fishing_Area_Project_Clip/BG_Fishing_Area_Project_Clip.shp",
+    "propertiesToKeep": []
+  },
+  {
+    "src": "data/src/Data_Received/BG_Scuba_Diving_Polygones_Project_Clip/BG_Scuba_Diving_Polygones_Project_Clip.shp",
+    "layerName": "BG_Scuba_Diving_Polygones_Project_Clip",
+    "geo_type": "vector",
+    "datasourceId": "scuba_diving",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "classKeys": [],
+    "created": "2023-10-30T22:52:17.597Z",
+    "lastUpdated": "2023-10-30T22:52:17.597Z",
+    "propertiesToKeep": [],
     "precalc": true
   }
 ]

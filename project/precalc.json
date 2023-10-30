@@ -210,6 +210,22 @@
   {
     "geographyId": "world",
     "metricId": "area",
+    "classId": "bathing_waters-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4366429.773634414
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "fishing_area-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1799874702.5971768
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
     "classId": "global-eez-mr-v12-bulgaria-total",
     "sketchId": null,
     "groupId": null,
@@ -230,6 +246,14 @@
     "sketchId": null,
     "groupId": null,
     "value": 64380467473.49254
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "scuba_diving-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 39536574.35191253
   },
   {
     "geographyId": "world",
@@ -314,6 +338,22 @@
   {
     "geographyId": "world",
     "metricId": "count",
+    "classId": "bathing_waters-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 11
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "fishing_area-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
     "classId": "global-eez-mr-v12-bulgaria-total",
     "sketchId": null,
     "groupId": null,
@@ -334,6 +374,14 @@
     "sketchId": null,
     "groupId": null,
     "value": 2
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "scuba_diving-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 4
   },
   {
     "geographyId": "world",

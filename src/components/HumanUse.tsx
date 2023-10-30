@@ -26,15 +26,15 @@ import { Trans, useTranslation } from "react-i18next";
 
 const Number = new Intl.NumberFormat("en", { style: "decimal" });
 
-export const Seabed: React.FunctionComponent = (props: any) => {
+export const HumanUse: React.FunctionComponent = (props: any) => {
   const [{ isCollection }] = useSketchProperties();
   const { t } = useTranslation();
 
-  const metricGroup = project.getMetricGroup("seabedAreaOverlap", t);
+  const metricGroup = project.getMetricGroup("humanUseAreaOverlap", t);
 
-  const reportTitleLabel = t("Seabed Habitats");
+  const reportTitleLabel = t("Human Use");
   const mapLabel = t("Map");
-  const benthicLabel = t("Seabed Habitat");
+  const benthicLabel = t("Use Type");
   const areaWithin = t("Area Within Plan");
   const sqKmLabel = t("km²");
 
@@ -42,7 +42,7 @@ export const Seabed: React.FunctionComponent = (props: any) => {
     <>
       <ResultsCard
         title={reportTitleLabel}
-        functionName="seabedAreaOverlap"
+        functionName="humanUseAreaOverlap"
         useChildCard
       >
         {(data: ReportResult) => {
@@ -62,11 +62,10 @@ export const Seabed: React.FunctionComponent = (props: any) => {
               }
             >
               <p>
-                <Trans i18nKey="Seabed Card 1">
-                  The seafloor has many unique habitats that support different
-                  ecological communities. Plans should ensure the representative
-                  coverage of each seafloor type. This report summarizes the
-                  percentage of each seabed habitat found in this plan.
+                <Trans i18nKey="HumanUse Card 1">
+                  Plans should consider the impact to human use activities if
+                  access or activies are restricted. This report summarizes the
+                  amount of each human use area found in this plan.
                 </Trans>
               </p>
 
@@ -106,7 +105,7 @@ export const Seabed: React.FunctionComponent = (props: any) => {
               )}
 
               <Collapse title={t("Learn more")}>
-                <Trans i18nKey="Seabed Card - learn more">
+                <Trans i18nKey="HumanUse Card - learn more">
                   <p>
                     📈 Report: The percentage of each feature type within this
                     plan is calculated by finding the overlap of each feature
