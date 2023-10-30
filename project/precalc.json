@@ -2,10 +2,42 @@
   {
     "geographyId": "eez",
     "metricId": "area",
-    "classId": "global-eez-mr-v12-total",
+    "classId": "global-eez-mr-v12-bulgaria-total",
     "sketchId": null,
     "groupId": null,
     "value": 34770069276.988205
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "global-eez-mr-v12-romania-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 29610398196.504333
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "global-eez-mr-v12-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 64380467473.49254
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "global-eez-mr-v12-bulgaria-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "global-eez-mr-v12-romania-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
   },
   {
     "geographyId": "eez",
@@ -13,6 +45,6 @@
     "classId": "global-eez-mr-v12-total",
     "sketchId": null,
     "groupId": null,
-    "value": 1
+    "value": 2
   }
 ]

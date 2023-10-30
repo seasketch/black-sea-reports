@@ -3,7 +3,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "26c76998-fbf5-47b9-b207-f1f57f6666ce",
       "groupId": null,
       "value": 0,
@@ -14,10 +14,10 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "503a1f99-a69f-4e92-bb5c-3438f47234d8",
       "groupId": null,
-      "value": 1968051317.662194,
+      "value": 1541739664.270363,
       "extra": {
         "sketchName": "randomSketchCollection-1"
       }
@@ -25,7 +25,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "61bfb023-eec2-4cd9-9476-12da7a7788ae",
       "groupId": null,
       "value": 0,
@@ -36,7 +36,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "7ccb898f-8633-4316-9503-a45dfecd4d2a",
       "groupId": null,
       "value": 1285924439.056313,
@@ -47,7 +47,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "826990c3-8e43-44f0-adb4-fb441cf3ac6e",
       "groupId": null,
       "value": 0,
@@ -58,7 +58,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "895bfd35-989c-43e1-99c7-e2e9080302c4",
       "groupId": null,
       "value": 803317066.550887,
@@ -69,7 +69,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "9d262bc3-f870-4e7a-89e3-85460443d8c6",
       "groupId": null,
       "value": 1893837214.185578,
@@ -80,7 +80,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
       "sketchId": "ce6621b9-544e-49cd-b1dd-af9d9e0be17f",
       "groupId": null,
       "value": 1492467634.951895,
@@ -91,7 +91,251 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
+      "sketchId": "d4a76a46-f696-454b-950c-0e815194cbaa",
+      "groupId": null,
+      "value": 8060008399.002659,
+      "extra": {
+        "sketchName": "randomSketchCollection",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezBulgaria",
+      "sketchId": "deac1bbb-a43f-41c4-a9b7-99aa0d95fce8",
+      "groupId": null,
+      "value": 1051891590.203972,
+      "extra": {
+        "sketchName": "randomSketchCollection-7"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezBulgaria",
+      "sketchId": "fec9b215-d6d5-4ee4-b226-023781e6741d",
+      "groupId": null,
+      "value": 8666869.320679,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "26c76998-fbf5-47b9-b207-f1f57f6666ce",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-9"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "503a1f99-a69f-4e92-bb5c-3438f47234d8",
+      "groupId": null,
+      "value": 426311653.390704,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "61bfb023-eec2-4cd9-9476-12da7a7788ae",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-4"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "7ccb898f-8633-4316-9503-a45dfecd4d2a",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-6"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "826990c3-8e43-44f0-adb4-fb441cf3ac6e",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-3"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "895bfd35-989c-43e1-99c7-e2e9080302c4",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-8"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "9d262bc3-f870-4e7a-89e3-85460443d8c6",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-2"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "ce6621b9-544e-49cd-b1dd-af9d9e0be17f",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-5"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "d4a76a46-f696-454b-950c-0e815194cbaa",
+      "groupId": null,
+      "value": 426311653.390704,
+      "extra": {
+        "sketchName": "randomSketchCollection",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "deac1bbb-a43f-41c4-a9b7-99aa0d95fce8",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-7"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "fec9b215-d6d5-4ee4-b226-023781e6741d",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "26c76998-fbf5-47b9-b207-f1f57f6666ce",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-9"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "503a1f99-a69f-4e92-bb5c-3438f47234d8",
+      "groupId": null,
+      "value": 1968051317.662194,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "61bfb023-eec2-4cd9-9476-12da7a7788ae",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-4"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "7ccb898f-8633-4316-9503-a45dfecd4d2a",
+      "groupId": null,
+      "value": 1285924439.056313,
+      "extra": {
+        "sketchName": "randomSketchCollection-6"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "826990c3-8e43-44f0-adb4-fb441cf3ac6e",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-3"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "895bfd35-989c-43e1-99c7-e2e9080302c4",
+      "groupId": null,
+      "value": 803317066.550887,
+      "extra": {
+        "sketchName": "randomSketchCollection-8"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "9d262bc3-f870-4e7a-89e3-85460443d8c6",
+      "groupId": null,
+      "value": 1893837214.185578,
+      "extra": {
+        "sketchName": "randomSketchCollection-2"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "ce6621b9-544e-49cd-b1dd-af9d9e0be17f",
+      "groupId": null,
+      "value": 1492467634.951895,
+      "extra": {
+        "sketchName": "randomSketchCollection-5"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
       "sketchId": "d4a76a46-f696-454b-950c-0e815194cbaa",
       "groupId": null,
       "value": 8486320052.394489,
@@ -103,7 +347,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezs",
       "sketchId": "deac1bbb-a43f-41c4-a9b7-99aa0d95fce8",
       "groupId": null,
       "value": 1051891590.203972,
@@ -114,7 +358,7 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezs",
       "sketchId": "fec9b215-d6d5-4ee4-b226-023781e6741d",
       "groupId": null,
       "value": 8666869.320679,

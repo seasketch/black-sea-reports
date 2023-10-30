@@ -51,10 +51,76 @@
       ]
     },
     "bboxFilter": [
-      27.443712115721866,
-      41.978194444444625,
-      31.330820012970065,
-      43.73847246203471
+      20.266257047424801,
+      43.439800561646678,
+      31.409722222222598,
+      48.265256762789363
+    ]
+  },
+  {
+    "datasourceId": "global-eez-mr-v12-romania",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "metadata": {
+      "name": "World EEZ v11",
+      "description": "World EEZ boundaries and disputed areas",
+      "version": "11.0",
+      "publisher": "Flanders Marine Institute (VLIZ)",
+      "publishDate": "2019118",
+      "publishLink": "https://marineregions.org/"
+    },
+    "idProperty": "GEONAME",
+    "nameProperty": "GEONAME",
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
+    "propertyFilter": {
+      "property": "GEONAME",
+      "values": [
+        "Romanian Exclusive Economic Zone"
+      ]
+    },
+    "bboxFilter": [
+      20.266257047424801,
+      43.439800561646678,
+      31.409722222222598,
+      48.265256762789363
+    ]
+  },
+  {
+    "datasourceId": "global-eez-mr-v12-bulgaria",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "metadata": {
+      "name": "World EEZ v11",
+      "description": "World EEZ boundaries and disputed areas",
+      "version": "11.0",
+      "publisher": "Flanders Marine Institute (VLIZ)",
+      "publishDate": "2019118",
+      "publishLink": "https://marineregions.org/"
+    },
+    "idProperty": "GEONAME",
+    "nameProperty": "GEONAME",
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
+    "propertyFilter": {
+      "property": "GEONAME",
+      "values": [
+        "Bulgarian Exclusive Economic Zone"
+      ]
+    },
+    "bboxFilter": [
+      20.266257047424801,
+      43.439800561646678,
+      31.409722222222598,
+      48.265256762789363
     ]
   },
   {

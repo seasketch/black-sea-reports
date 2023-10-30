@@ -3,7 +3,29 @@
     {
       "geographyId": "eez",
       "metricId": "boundaryAreaOverlap",
-      "classId": "eez",
+      "classId": "eezBulgaria",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 715841594.584959,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": "eez",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
       "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
       "groupId": null,
       "value": 715841594.584959,

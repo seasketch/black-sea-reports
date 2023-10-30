@@ -109,11 +109,10 @@ export const SizeCard: React.FunctionComponent<GeoProp> = (props) => {
               <p>
                 {planningUnitName}{" "}
                 <Trans i18nKey="SizeCard - introduction">
-                  national waters extend from the shoreline out to 200 nautical
-                  miles, known as the Exclusive Economic Zone (EEZ). This report
-                  summarizes offshore plan overlap with the EEZ and other
-                  boundaries within it, measuring progress towards achieving %
-                  targets for each boundary.
+                  waters extend from the shoreline out to 200 nautical miles.
+                  This report summarizes offshore plan overlap with the EEZs and
+                  other boundaries within it, measuring progress towards
+                  achieving % targets for each boundary.
                 </Trans>
               </p>
               {genSingleSizeTable(data, precalcMetrics, metricGroup, t)}
@@ -191,15 +190,14 @@ const genSingleSizeTable = (
       <ClassTable
         rows={finalMetrics}
         metricGroup={mg}
-        objective={project.getMetricGroupObjectives(mg, t)}
         columnConfig={[
           {
             columnLabel: boundaryLabel,
             type: "class",
-            width: 25,
+            width: 30,
           },
           {
-            columnLabel: foundWithinLabel,
+            columnLabel: areaWithinLabel,
             type: "metricValue",
             metricId: mg.metricId,
             valueFormatter: (val: string | number) =>
@@ -211,10 +209,10 @@ const genSingleSizeTable = (
                 )
               ),
             valueLabel: sqKmLabel,
-            width: 20,
+            width: 25,
           },
           {
-            columnLabel: " ",
+            columnLabel: areaPercWithinLabel,
             type: "metricChart",
             metricId: project.getMetricGroupPercId(mg),
             valueFormatter: "percent",
@@ -225,7 +223,7 @@ const genSingleSizeTable = (
               targetLabelStyle: "tight",
               barHeight: 11,
             },
-            width: 40,
+            width: 35,
             targetValueFormatter: (
               value: number,
               row: number,
@@ -244,7 +242,7 @@ const genSingleSizeTable = (
           },
           {
             type: "layerToggle",
-            width: 15,
+            width: 10,
             columnLabel: mapLabel,
           },
         ]}

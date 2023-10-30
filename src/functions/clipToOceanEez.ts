@@ -46,8 +46,9 @@ export async function clipToOceanEez(
   // or more EEZ's.  Using a runtime-provided list of EEZ's via extraParams.eezFilterByNames
   // allows this preprocessor to work for any set of EEZ's.  Using a project-configured
   // planningAreaId allows this preprocessor to work for a specific EEZ.
+  console.log("clipping to", project.basic.planningAreaId);
   const removeOutsideEez: DatasourceClipOperation = {
-    datasourceId: "global-clipping-eez-land-union",
+    datasourceId: "global-eez-mr-v12",
     operation: "intersection",
     options: {
       propertyFilter: {
