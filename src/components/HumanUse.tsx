@@ -77,7 +77,7 @@ export const HumanUse: React.FunctionComponent = (props: any) => {
                     {
                       columnLabel: benthicLabel,
                       type: "class",
-                      width: 60,
+                      width: 50,
                     },
                     {
                       columnLabel: areaWithin,
@@ -93,6 +93,11 @@ export const HumanUse: React.FunctionComponent = (props: any) => {
                         ),
                       valueLabel: sqKmLabel,
                       width: 40,
+                    },
+                    {
+                      type: "layerToggle",
+                      width: 10,
+                      columnLabel: mapLabel,
                     },
                   ]}
                 />
