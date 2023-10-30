@@ -1,18 +1,18 @@
 {
   "metrics": [
     {
-      "geographyId": "eez",
+      "geographyId": "world",
       "metricId": "boundaryAreaOverlap",
       "classId": "eezBulgaria",
       "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
       "groupId": null,
-      "value": 715841594.584959,
+      "value": 715841626.785519,
       "extra": {
         "sketchName": "randomSketch"
       }
     },
     {
-      "geographyId": "eez",
+      "geographyId": "world",
       "metricId": "boundaryAreaOverlap",
       "classId": "eezRomania",
       "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
@@ -23,12 +23,12 @@
       }
     },
     {
-      "geographyId": "eez",
+      "geographyId": "world",
       "metricId": "boundaryAreaOverlap",
       "classId": "eezs",
       "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
       "groupId": null,
-      "value": 715841594.584959,
+      "value": 715841626.785519,
       "extra": {
         "sketchName": "randomSketch"
       }

@@ -1,0 +1,123 @@
+{
+  "metrics": [
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Circa-Coarse Sediment",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Circa-Mixed Sediment",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Circa-Mud to muddy sand",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Circa-Sand",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Infra-Coarse Sediment",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Infra-Mixed Sediment",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Infra-Mud to muddy sand",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Infra-Sand",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "seabedAreaOverlap",
+      "classId": "Rock",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    }
+  ],
+  "sketch": {
+    "type": "Feature",
+    "properties": {
+      "id": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "isCollection": false,
+      "userAttributes": [],
+      "sketchClassId": "18f3126d-01b2-4ee1-843e-cf85d2e8a15f",
+      "createdAt": "2023-10-27T19:41:56.439Z",
+      "updatedAt": "2023-10-27T19:41:56.439Z",
+      "name": "randomSketch"
+    },
+    "id": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+    "bbox": [
+      29.154459192457068,
+      42.29772834686496,
+      29.856611474009064,
+      42.682069801790874
+    ],
+    "geometry": null
+  }
+}

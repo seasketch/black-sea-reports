@@ -25,6 +25,86 @@
   },
   {
     "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 40495319.84910995
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 560520041.7020139
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1324059896.2870772
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 44591636.41924208
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2780266.1997068445
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1223795.1072159067
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 9345925.768047594
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 37248453.35240589
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-Rock",
+    "sketchId": null,
+    "groupId": null,
+    "value": 24164451.475858815
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "area",
+    "classId": "seabed_habitats-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2044429786.1606772
+  },
+  {
+    "geographyId": "eez",
     "metricId": "count",
     "classId": "global-eez-mr-v12-bulgaria-total",
     "sketchId": null,
@@ -46,5 +126,293 @@
     "sketchId": null,
     "groupId": null,
     "value": 2
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 6
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 6
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 8
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 13
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 18
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 41
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-Rock",
+    "sketchId": null,
+    "groupId": null,
+    "value": 50
+  },
+  {
+    "geographyId": "eez",
+    "metricId": "count",
+    "classId": "seabed_habitats-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 148
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "global-eez-mr-v12-bulgaria-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 34770069276.988205
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "global-eez-mr-v12-romania-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 29610398196.504333
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "global-eez-mr-v12-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 64380467473.49254
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 40495319.84910995
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 560515000.1226301
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1324072799.8334184
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Circa-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 44591636.41924208
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2844751.9391296306
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1223795.1072159067
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 9347474.506273637
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Infra-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 38153109.18279373
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-Rock",
+    "sketchId": null,
+    "groupId": null,
+    "value": 25579875.651223127
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "seabed_habitats-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2046823762.611036
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "global-eez-mr-v12-bulgaria-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "global-eez-mr-v12-romania-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "global-eez-mr-v12-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 6
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 6
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Circa-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 8
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Coarse Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 28
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Mixed Sediment",
+    "sketchId": null,
+    "groupId": null,
+    "value": 3
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Mud to muddy sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 25
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Infra-Sand",
+    "sketchId": null,
+    "groupId": null,
+    "value": 133
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-Rock",
+    "sketchId": null,
+    "groupId": null,
+    "value": 168
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "seabed_habitats-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 380
   }
 ]

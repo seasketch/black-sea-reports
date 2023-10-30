@@ -22,5 +22,66 @@
                 "layerId": ""
             }
         ]
+    },
+    {
+        "metricId": "seabedAreaOverlap",
+        "type": "areaOverlap",
+        "layerId":"66LB2HhRG",
+        "classes": [
+            {
+                "classId": "Circa-Coarse Sediment",
+                "display": "Circa-Coarse Sediment",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Circa-Mixed Sediment",
+                "display": "Circa-Mixed Sediment",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Circa-Mud to muddy sand",
+                "display": "Circa-Mud to muddy sand",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Circa-Sand",
+                "display": "Circa-Sand",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Infra-Coarse Sediment",
+                "display": "Infra-Coarse Sediment",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Infra-Mixed Sediment",
+                "display": "Infra-Mixed Sediment",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Infra-Mud to muddy sand",
+                "display": "Infra-Mud to muddy sand",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Infra-Sand",
+                "display": "Infra-Sand",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            },
+            {
+                "classId": "Rock",
+                "display": "Rock",
+                "classKey": "orig_hab",
+                "datasourceId": "seabed_habitats"
+            }
+        ]
     }
 ]

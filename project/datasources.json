@@ -41,8 +41,6 @@
     },
     "idProperty": "GEONAME",
     "nameProperty": "GEONAME",
-    "classKeys": [],
-    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
     "propertyFilter": {
       "property": "GEONAME",
       "values": [
@@ -51,11 +49,13 @@
       ]
     },
     "bboxFilter": [
-      20.266257047424801,
-      43.439800561646678,
+      20.2662570474248,
+      43.43980056164668,
       31.409722222222598,
-      48.265256762789363
-    ]
+      48.26525676278936
+    ],
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb"
   },
   {
     "datasourceId": "global-eez-mr-v12-romania",
@@ -75,8 +75,6 @@
     },
     "idProperty": "GEONAME",
     "nameProperty": "GEONAME",
-    "classKeys": [],
-    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
     "propertyFilter": {
       "property": "GEONAME",
       "values": [
@@ -84,11 +82,13 @@
       ]
     },
     "bboxFilter": [
-      20.266257047424801,
-      43.439800561646678,
+      20.2662570474248,
+      43.43980056164668,
       31.409722222222598,
-      48.265256762789363
-    ]
+      48.26525676278936
+    ],
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb"
   },
   {
     "datasourceId": "global-eez-mr-v12-bulgaria",
@@ -108,8 +108,6 @@
     },
     "idProperty": "GEONAME",
     "nameProperty": "GEONAME",
-    "classKeys": [],
-    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb",
     "propertyFilter": {
       "property": "GEONAME",
       "values": [
@@ -117,11 +115,13 @@
       ]
     },
     "bboxFilter": [
-      20.266257047424801,
-      43.439800561646678,
+      20.2662570474248,
+      43.43980056164668,
       31.409722222222598,
-      48.265256762789363
-    ]
+      48.26525676278936
+    ],
+    "classKeys": [],
+    "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb"
   },
   {
     "datasourceId": "world",
@@ -142,5 +142,24 @@
     "layerName": "world",
     "classKeys": [],
     "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/world.fgb"
+  },
+  {
+    "src": "data/src/Data_Received/bottomHabitats.geojson",
+    "layerName": "bottomHabitats",
+    "geo_type": "vector",
+    "datasourceId": "seabed_habitats",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "classKeys": [
+      "orig_hab"
+    ],
+    "created": "2023-10-30T21:35:24.499Z",
+    "lastUpdated": "2023-10-30T21:35:24.499Z",
+    "propertiesToKeep": [
+      "orig_hab"
+    ],
+    "precalc": true
   }
 ]

@@ -64,7 +64,7 @@ const TableStyled = styled(ReportTableStyled)`
   }
 `;
 
-export const SizeCard: React.FunctionComponent<GeoProp> = (props) => {
+export const SizeCard: React.FunctionComponent = (props: any) => {
   const [{ isCollection }] = useSketchProperties();
   const { t } = useTranslation();
 

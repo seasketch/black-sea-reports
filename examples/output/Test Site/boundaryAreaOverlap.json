@@ -1,0 +1,104 @@
+{
+  "metrics": [
+    {
+      "geographyId": "world",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezBulgaria",
+      "sketchId": "21830",
+      "groupId": null,
+      "value": 1883450156.693857,
+      "extra": {
+        "sketchName": "Test Site"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezRomania",
+      "sketchId": "21830",
+      "groupId": null,
+      "value": 161499458.084433,
+      "extra": {
+        "sketchName": "Test Site"
+      }
+    },
+    {
+      "geographyId": "world",
+      "metricId": "boundaryAreaOverlap",
+      "classId": "eezs",
+      "sketchId": "21830",
+      "groupId": null,
+      "value": 2044958377.050669,
+      "extra": {
+        "sketchName": "Test Site"
+      }
+    }
+  ],
+  "sketch": {
+    "id": 21830,
+    "bbox": [
+      28.46577,
+      43.35822,
+      29.173,
+      43.735847
+    ],
+    "type": "Feature",
+    "properties": {
+      "4755": "Test Site",
+      "4756": "full",
+      "4757": "Test site provided by Hristo Stanchev",
+      "id": "21830",
+      "name": "Test Site",
+      "postId": null,
+      "userId": "531",
+      "comments": "Test site provided by Hristo Stanchev",
+      "userSlug": "Abby",
+      "createdAt": "2023-10-30T20:43:03.193746+00:00",
+      "updatedAt": "2023-10-30T20:43:03.193746+00:00",
+      "designation": "full",
+      "collectionId": null,
+      "isCollection": false,
+      "sharedInForum": false,
+      "sketchClassId": "485",
+      "userAttributes": [
+        {
+          "label": "Comments",
+          "value": "Test site provided by Hristo Stanchev",
+          "exportId": "comments",
+          "fieldType": "TextArea",
+          "valueLabel": null,
+          "formElementId": 4757,
+          "alternateLanguages": {
+            "bg": {
+              "label": "Коментари",
+              "valueLabel": null
+            },
+            "ro": {
+              "label": "Comentarii",
+              "valueLabel": null
+            }
+          }
+        },
+        {
+          "label": "Designation",
+          "value": "full",
+          "exportId": "designation",
+          "fieldType": "ComboBox",
+          "valueLabel": "Fully Protected",
+          "formElementId": 4756,
+          "alternateLanguages": {
+            "bg": {
+              "label": "Обозначаване",
+              "valueLabel": "Напълно защитен"
+            },
+            "ro": {
+              "label": "Desemnare",
+              "valueLabel": "Complet protejat"
+            }
+          }
+        }
+      ]
+    },
+    "geometry": null
+  }
+}
