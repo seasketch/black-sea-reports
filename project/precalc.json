@@ -250,6 +250,22 @@
   {
     "geographyId": "world",
     "metricId": "area",
+    "classId": "military-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 765033221.5058174
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
+    "classId": "oil_and_gas-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 1865657250.8385363
+  },
+  {
+    "geographyId": "world",
+    "metricId": "area",
     "classId": "scuba_diving-total",
     "sketchId": null,
     "groupId": null,
@@ -371,6 +387,22 @@
     "geographyId": "world",
     "metricId": "count",
     "classId": "global-eez-mr-v12-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 2
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "military-total",
+    "sketchId": null,
+    "groupId": null,
+    "value": 6
+  },
+  {
+    "geographyId": "world",
+    "metricId": "count",
+    "classId": "oil_and_gas-total",
     "sketchId": null,
     "groupId": null,
     "value": 2

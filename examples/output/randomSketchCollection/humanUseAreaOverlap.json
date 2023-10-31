@@ -365,6 +365,250 @@
         "sketchName": "randomSketchCollection",
         "isCollection": true
       }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "503a1f99-a69f-4e92-bb5c-3438f47234d8",
+      "groupId": null,
+      "value": 267856694.279733,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "fec9b215-d6d5-4ee4-b226-023781e6741d",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "9d262bc3-f870-4e7a-89e3-85460443d8c6",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-2"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "826990c3-8e43-44f0-adb4-fb441cf3ac6e",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-3"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "61bfb023-eec2-4cd9-9476-12da7a7788ae",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-4"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "ce6621b9-544e-49cd-b1dd-af9d9e0be17f",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-5"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "7ccb898f-8633-4316-9503-a45dfecd4d2a",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-6"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "deac1bbb-a43f-41c4-a9b7-99aa0d95fce8",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-7"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "895bfd35-989c-43e1-99c7-e2e9080302c4",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-8"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "26c76998-fbf5-47b9-b207-f1f57f6666ce",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-9"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "d4a76a46-f696-454b-950c-0e815194cbaa",
+      "groupId": null,
+      "value": 267856694.279733,
+      "extra": {
+        "sketchName": "randomSketchCollection",
+        "isCollection": true
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "503a1f99-a69f-4e92-bb5c-3438f47234d8",
+      "groupId": null,
+      "value": 1363107201.392721,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "fec9b215-d6d5-4ee4-b226-023781e6741d",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-1"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "9d262bc3-f870-4e7a-89e3-85460443d8c6",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-2"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "826990c3-8e43-44f0-adb4-fb441cf3ac6e",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-3"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "61bfb023-eec2-4cd9-9476-12da7a7788ae",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-4"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "ce6621b9-544e-49cd-b1dd-af9d9e0be17f",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-5"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "7ccb898f-8633-4316-9503-a45dfecd4d2a",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-6"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "deac1bbb-a43f-41c4-a9b7-99aa0d95fce8",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-7"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "895bfd35-989c-43e1-99c7-e2e9080302c4",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-8"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "26c76998-fbf5-47b9-b207-f1f57f6666ce",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketchCollection-9"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "d4a76a46-f696-454b-950c-0e815194cbaa",
+      "groupId": null,
+      "value": 1363107201.392721,
+      "extra": {
+        "sketchName": "randomSketchCollection",
+        "isCollection": true
+      }
     }
   ],
   "sketch": {

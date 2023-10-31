@@ -32,6 +32,28 @@
       "extra": {
         "sketchName": "Test Site"
       }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "21830",
+      "groupId": null,
+      "value": 635080850.461288,
+      "extra": {
+        "sketchName": "Test Site"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "21830",
+      "groupId": null,
+      "value": 1865655396.217425,
+      "extra": {
+        "sketchName": "Test Site"
+      }
     }
   ],
   "sketch": {

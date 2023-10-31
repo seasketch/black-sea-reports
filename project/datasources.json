@@ -193,17 +193,47 @@
     "propertiesToKeep": []
   },
   {
-    "src": "data/src/Data_Received/BG_Scuba_Diving_Polygones_Project_Clip/BG_Scuba_Diving_Polygones_Project_Clip.shp",
-    "layerName": "BG_Scuba_Diving_Polygones_Project_Clip",
-    "geo_type": "vector",
     "datasourceId": "scuba_diving",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "layerName": "BG_Scuba_Diving_Polygones_Project_Clip",
+    "classKeys": [],
+    "created": "2023-10-30T22:52:17.597Z",
+    "lastUpdated": "2023-10-30T22:52:17.597Z",
+    "src": "data/src/Data_Received/BG_Scuba_Diving_Polygones_Project_Clip/BG_Scuba_Diving_Polygones_Project_Clip.shp",
+    "propertiesToKeep": []
+  },
+  {
+    "datasourceId": "oil_and_gas",
+    "geo_type": "vector",
+    "formats": [
+      "fgb",
+      "json"
+    ],
+    "precalc": true,
+    "layerName": "BG_Black_Sea_Oil_and_Gaz_Consession_Clip",
+    "classKeys": [],
+    "created": "2023-10-31T22:24:07.080Z",
+    "lastUpdated": "2023-10-31T22:24:07.080Z",
+    "src": "data/src/Data_Received/BG_Black_Sea_Oil_and_Gaz_Consession_Clip.shp/BG_Black_Sea_Oil_and_Gaz_Consession_Clip.shp",
+    "propertiesToKeep": []
+  },
+  {
+    "src": "data/src/Data_Received/BG_EMODnet_MilitaryAreas_Project_Clip/BG_EMODnet_MilitaryAreas_Project_Clip.shp",
+    "layerName": "BG_EMODnet_MilitaryAreas_Project_Clip",
+    "geo_type": "vector",
+    "datasourceId": "military",
     "formats": [
       "fgb",
       "json"
     ],
     "classKeys": [],
-    "created": "2023-10-30T22:52:17.597Z",
-    "lastUpdated": "2023-10-30T22:52:17.597Z",
+    "created": "2023-10-31T22:24:36.900Z",
+    "lastUpdated": "2023-10-31T22:24:36.900Z",
     "propertiesToKeep": [],
     "precalc": true
   }

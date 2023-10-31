@@ -32,6 +32,28 @@
       "extra": {
         "sketchName": "randomSketch"
       }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "military",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
+    },
+    {
+      "geographyId": null,
+      "metricId": "humanUseAreaOverlap",
+      "classId": "oil_and_gas",
+      "sketchId": "1164960c-71af-4522-a0b6-13f0cc903ba1",
+      "groupId": null,
+      "value": 0,
+      "extra": {
+        "sketchName": "randomSketch"
+      }
     }
   ],
   "sketch": {

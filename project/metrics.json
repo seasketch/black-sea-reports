@@ -26,7 +26,7 @@
     {
         "metricId": "seabedAreaOverlap",
         "type": "areaOverlap",
-        "layerId":"66LB2HhRG",
+        "layerId": "66LB2HhRG",
         "classes": [
             {
                 "classId": "Circa-Coarse Sediment",
@@ -105,6 +105,18 @@
                 "display": "Scuba Diving Areas",
                 "datasourceId": "scuba_diving",
                 "layerId": "v7pL79GiH"
+            },
+            {
+                "classId": "military",
+                "display": "Military Areas",
+                "datasourceId": "military",
+                "layerId": "c07cSQXGN"
+            },
+            {
+                "classId": "oil_and_gas",
+                "display": "Oil and Gas Concession Areas",
+                "datasourceId": "oil_and_gas",
+                "layerId": "h7iSmyvc2"
             }
         ]
     }
