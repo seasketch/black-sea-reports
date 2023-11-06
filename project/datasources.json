@@ -49,10 +49,10 @@
       ]
     },
     "bboxFilter": [
-      20.2662570474248,
-      43.43980056164668,
-      31.409722222222598,
-      48.26525676278936
+      27,
+      41,
+      31.5,
+      46
     ],
     "classKeys": [],
     "url": "https://gp-global-datasources-datasets.s3.us-west-1.amazonaws.com/global-eez-mr-v12.fgb"
@@ -223,18 +223,32 @@
     "propertiesToKeep": []
   },
   {
-    "src": "data/src/Data_Received/BG_EMODnet_MilitaryAreas_Project_Clip/BG_EMODnet_MilitaryAreas_Project_Clip.shp",
-    "layerName": "BG_EMODnet_MilitaryAreas_Project_Clip",
-    "geo_type": "vector",
     "datasourceId": "military",
+    "geo_type": "vector",
     "formats": [
       "fgb",
       "json"
     ],
+    "precalc": true,
+    "layerName": "BG_EMODnet_MilitaryAreas_Project_Clip",
     "classKeys": [],
     "created": "2023-10-31T22:24:36.900Z",
     "lastUpdated": "2023-10-31T22:24:36.900Z",
-    "propertiesToKeep": [],
+    "src": "data/src/Data_Received/BG_EMODnet_MilitaryAreas_Project_Clip/BG_EMODnet_MilitaryAreas_Project_Clip.shp",
+    "propertiesToKeep": []
+  },
+  {
+    "src": "data/src/Analytics/GEBCO_03_Nov_2023_7da918924314/gebco_2023_n46.0_s41.0_w27.0_e31.5.tif",
+    "band": 1,
+    "geo_type": "raster",
+    "datasourceId": "bathymetry",
+    "formats": [
+      "tif"
+    ],
+    "created": "2023-11-03T23:13:41.806Z",
+    "lastUpdated": "2023-11-03T23:13:41.806Z",
+    "noDataValue": -32767,
+    "measurementType": "quantitative",
     "precalc": true
   }
 ]

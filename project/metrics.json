@@ -24,6 +24,17 @@
         ]
     },
     {
+        "metricId": "bathymetry",
+        "type": "valueOverlap",
+        "classes": [
+            {
+                "classId": "depth",
+                "display": "Depth",
+                "datasourceId": "bathymetry"
+            }
+        ]
+    },
+    {
         "metricId": "seabedAreaOverlap",
         "type": "areaOverlap",
         "layerId": "66LB2HhRG",
